@@ -685,34 +685,34 @@
                 }
             }]
         },
-        {
-            "title": "Gracious Professionalism",
-            "description": "This category is not counted towards the overall score.",
-            "objectives": [{
-                    "id": "GP",
-                    "title": "Gracious Professionalism displayed at the robot game table:",
-                    "options": [
-                        {
-                            "value": "2",
-                            "title": "Developing 2"
-                        },
-                        {
-                            "value": "3",
-                            "title": "Accomplished 3"
-                        },
-                        {
-                            "value": "4",
-                            "title": "Exceeds 4"
-                        }
-                    ],
-                    "type": "enum",
-                    "default": "0"
-                },
-            ],
-            "score": [function(GP) {
-                return 0;
-            }]
-        },
+        // {
+        //     "title": "Gracious Professionalism",
+        //     "description": "This category is not counted towards the overall score.",
+        //     "objectives": [{
+        //             "id": "GP",
+        //             "title": "Gracious Professionalism displayed at the robot game table:",
+        //             "options": [
+        //                 {
+        //                     "value": "2",
+        //                     "title": "Developing 2"
+        //                 },
+        //                 {
+        //                     "value": "3",
+        //                     "title": "Accomplished 3"
+        //                 },
+        //                 {
+        //                     "value": "4",
+        //                     "title": "Exceeds 4"
+        //                 }
+        //             ],
+        //             "type": "enum",
+        //             "default": "0"
+        //         },
+        //     ],
+        //     "score": [function(GP) {
+        //         return 0;
+        //     }]
+        // },
     ],
     "strings": {
         "yes": "Yes",
