@@ -3,7 +3,7 @@
   "version": "2.4.36",
   "description": "Main scoring service",
   "main": "index.js",
-  "repository": "https://github.com/FirstLegoLeague/scoring",
+  "repository": "https://github.com/FIRST-Lego-League/scoring",
   "author": "Idan Stark <idanstark42@gmail.com>",
   "license": "MIT",
   "engines": {
